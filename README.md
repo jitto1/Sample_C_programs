@@ -1,1 +1,1 @@
-# cp-lab
+# Sample C programs
